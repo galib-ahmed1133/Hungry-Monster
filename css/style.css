@@ -1,0 +1,53 @@
+
+.search{
+    margin-top: 30px;
+}
+.search-input{
+    margin: auto;
+}
+#input-text{
+    padding: 15px;
+}
+.form-control{
+    border-radius: 3.25rem;
+}
+.btn-outline-secondary {
+    color: #ffffff;
+    background-color: #F06C4E;
+    padding: 0px 30px;
+    border-radius: 3.25rem;
+    border-style: none;
+}
+.search-result{
+    margin-top: 50px;
+}
+.card-text{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif; 
+    padding: 10px 0;
+}
+.card-style{
+   box-shadow: 0 0 20px rgb(114, 111, 111);
+}
+.not-found{
+    color:  #F06C4E;
+    font-size: 50px;
+    text-align: center;
+    justify-content: center;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+.meal-ingridients{
+    text-align: center;
+    background-color: chocolate;
+    color: white;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.image img{
+    border-radius: 10px;
+    width: 100%;
+}
